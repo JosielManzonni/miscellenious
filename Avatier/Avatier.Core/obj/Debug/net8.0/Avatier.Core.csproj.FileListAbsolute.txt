@@ -1,0 +1,12 @@
+Z:\SharedFolder\Avatier\Avatier.Core\bin\Debug\net8.0\Avatier.Core.deps.json
+Z:\SharedFolder\Avatier\Avatier.Core\bin\Debug\net8.0\Avatier.Core.dll
+Z:\SharedFolder\Avatier\Avatier.Core\bin\Debug\net8.0\Avatier.Core.pdb
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\Avatier.Core.csproj.AssemblyReference.cache
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\Avatier.Core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\Avatier.Core.AssemblyInfoInputs.cache
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\Avatier.Core.AssemblyInfo.cs
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\Avatier.Core.csproj.CoreCompileInputs.cache
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\Avatier.Core.dll
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\refint\Avatier.Core.dll
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\Avatier.Core.pdb
+Z:\SharedFolder\Avatier\Avatier.Core\obj\Debug\net8.0\ref\Avatier.Core.dll

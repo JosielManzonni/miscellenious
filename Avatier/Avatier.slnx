@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Avatier.Cli/Avatier.Cli.csproj" />
+  <Project Path="Avatier.Core/Avatier.Core.csproj" />
+  <Project Path="Avatier.Tests/Avatier.Tests.csproj" />
+</Solution>

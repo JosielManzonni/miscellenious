@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HHzyb7f6fI=",
+  "success": true,
+  "projectFilePath": "Z:\\SharedFolder\\Avatier\\Avatier.Cli\\Avatier.Cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josiel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\josiel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\josiel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\josiel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "C:\\Users\\josiel\\.nuget\\packages\\system.directoryservices.protocols\\10.0.0\\system.directoryservices.protocols.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
